@@ -1,0 +1,12 @@
+Student_ID,Name,Age,Gender,City,Python_Score,Pandas_Score,ML_Score,Placed
+101,Ananya,21,Female,Hyderabad,78.0,82.0,80.0,Yes
+102,Rahul,22,Male,Warangal,65.0,71.0,68.0,No
+103,Priya,20,Female,Karimnagar,88.0,91.0,90.0,Yes
+104,Arjun,23,Male,Hyderabad,72.0,,75.0,Yes
+105,Sneha,21,Female,Nizamabad,,79.0,77.0,No
+106,Vikram,24,Male,Warangal,59.0,64.0,,No
+107,Kavya,22,Female,Hyderabad,91.0,95.0,93.0,Yes
+108,Rohit,23,Male,Karimnagar,68.0,73.0,70.0,No
+109,Meena,20,Female,Nalgonda,84.0,87.0,86.0,Yes
+110,Kiran,22,Male,Hyderabad,76.0,80.0,78.0,Yes
+110,Kiran,22,Male,Hyderabad,76.0,80.0,78.0,Yes
